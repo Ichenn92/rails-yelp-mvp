@@ -9,7 +9,7 @@ Restaurant.create(name: "Shu Zang",
                   category: "chinese")
 Restaurant.create(name: "La frite",
                   address: "Bruxelles",
-                  category: "belgium")
+                  category: "belgian")
 Restaurant.create(name: "Pizza mama",
                   address: "Rome",
                   category: "italian")
